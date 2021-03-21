@@ -2,6 +2,7 @@ import sys
 
 #proba
 #neka izmena
+#ovde je neki bag razrešen
 def temp_swap(a,b):
     temp = a
     a = b

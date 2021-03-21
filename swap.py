@@ -1,8 +1,6 @@
 import sys
 
 #proba
-
-#proba2
 def temp_swap(a,b):
     temp = a
     a = b
